@@ -13,3 +13,5 @@ chmod +x ./install
 #just enough bash to perform
 
 yum install -y httpd
+
+service httpd start
